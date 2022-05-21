@@ -199,7 +199,7 @@ pycparser==2.20
     # via cffi
 pydantic==1.8.2
     # via fastapi
-pyjwt==2.0.1
+pyjwt==2.4.0
     # via oauthlib
 pyparsing==2.4.7
     # via
