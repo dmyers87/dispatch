@@ -126,7 +126,7 @@ lxml==4.6.3
     # via
     #   emails
     #   premailer
-mako==1.1.4
+mako==1.2.2
     # via alembic
 markupsafe==2.0.0
     # via
