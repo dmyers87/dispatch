@@ -179,7 +179,7 @@ preshed==3.0.5
     # via
     #   spacy
     #   thinc
-protobuf==3.15.6
+protobuf==3.18.3
     # via
     #   google-api-core
     #   googleapis-common-protos
