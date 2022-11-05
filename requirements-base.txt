@@ -126,7 +126,7 @@ lxml==4.6.3
     # via
     #   emails
     #   premailer
-mako==1.1.4
+mako==1.2.2
     # via alembic
 markupsafe==2.0.0
     # via
@@ -141,7 +141,7 @@ murmurhash==1.0.5
     #   preshed
     #   spacy
     #   thinc
-numpy==1.20.3
+numpy==1.22.2
     # via
     #   -r requirements-base.in
     #   blis
