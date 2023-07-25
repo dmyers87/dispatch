@@ -33,7 +33,7 @@ catalogue==1.0.0
     # via
     #   spacy
     #   thinc
-certifi==2020.12.5
+certifi==2023.7.22
     # via
     #   httpx
     #   requests
