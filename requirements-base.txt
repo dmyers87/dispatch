@@ -197,7 +197,7 @@ pyasn1==0.4.8
     #   rsa
 pycparser==2.20
     # via cffi
-pydantic==1.8.2
+pydantic==1.10.13
     # via fastapi
 pyjwt==2.0.1
     # via oauthlib
