@@ -217,7 +217,7 @@ python-editor==1.0.4
     # via alembic
 python-jose==3.3.0
     # via -r requirements-base.in
-python-multipart==0.0.5
+python-multipart==0.0.7
     # via -r requirements-base.in
 pytz==2021.1
     # via
