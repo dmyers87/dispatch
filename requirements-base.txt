@@ -313,7 +313,7 @@ tenacity==7.0.0
     # via -r requirements-base.in
 thinc==7.4.5
     # via spacy
-tqdm==4.59.0
+tqdm==4.66.3
     # via
     #   spacy
     #   thinc
