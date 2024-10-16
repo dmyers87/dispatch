@@ -25,7 +25,7 @@
     "register-service-worker": "^1.7.2",
     "roboto-fontface": "*",
     "vee-validate": "^3.4.5",
-    "vue": "^2.6.12",
+    "vue": "^3.0.0",
     "vue-apexcharts": "^1.6.1",
     "vue-clipboard2": "^0.3.1",
     "vue-router": "^3.5.1",
