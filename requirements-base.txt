@@ -95,7 +95,7 @@ google-auth==1.28.0
     #   google-auth-oauthlib
 googleapis-common-protos==1.53.0
     # via google-api-core
-h11==0.9.0
+h11==0.16.0
     # via
     #   -r requirements-base.in
     #   httpcore
