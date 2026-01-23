@@ -17,7 +17,7 @@
     "date-fns": "^2.21.1",
     "font-awesome": "^4.7.0",
     "json2csv": "^5.0.6",
-    "lodash": "^4.17.21",
+    "lodash": "^4.17.23",
     "mjml": "^4.9.3",
     "monaco-editor": "^0.23.0",
     "monaco-editor-vue": "^1.0.10",
